@@ -1,0 +1,8 @@
+yacs
+tabulate
+ftfy
+regex
+scikit-learn
+gdown
+timm
+prettytable
